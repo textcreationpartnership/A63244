@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon, preached in the cathedral church of Norwich before the Mayor and aldermen, upon the second of December 1697, being the publick thanksgiving, &amp;c. / by Charles Trimnell ...</title>
+            <author>Trimnell, Charles, 1663-1723.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63244</idno>
+            <idno type="STC">Wing T2281</idno>
+            <idno type="STC">ESTC R20780</idno>
+            <idno type="EEBO-CITATION">12224852</idno>
+            <idno type="OCLC">ocm 12224852</idno>
+            <idno type="VID">56488</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63244)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56488)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 617:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon, preached in the cathedral church of Norwich before the Mayor and aldermen, upon the second of December 1697, being the publick thanksgiving, &amp;c. / by Charles Trimnell ...</title>
+                  <author>Trimnell, Charles, 1663-1723.</author>
+               </titleStmt>
+               <extent>[4], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Weld ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms CXVI, 1-2 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56488:1"/>
+            <pb facs="tcp:56488:1"/>
+            <p>A SERMON, Preached in the Cathedral Church OF NORWICH: Before the Mayor and Aldermen.</p>
+            <p>Upon the Second of <hi>December</hi> 1697.</p>
+            <p>
+               <hi>Being the day of Publick Thanksgiving,</hi> &amp;c.</p>
+            <p>By <hi>Charles Trimnell</hi> A. M. Prebendary of <hi>Norwich,</hi> Rector of <hi>Brington</hi> in <hi>Northampton-ſhire,</hi> and Chaplain to the Right Honourable the Earl of <hi>Sunderland.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Weld,</hi> at the <hi>Crown</hi> between the two <hi>Temple-Gates</hi> in <hi>Fleetſtreet.</hi> 1697.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:56488:2"/>
+            <pb facs="tcp:56488:2"/>
+            <head>To the Right Worſhipful <hi>Lawrence Goodwin,</hi> 
+               <abbr>Eſq</abbr> Mayor of the City of <hi>Norwich.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THo I was unwilling to increaſe the number of Sermons that have been Printed of late, to the prejudice of thoſe excellent Diſcourſes, which had they been fewer, wou'd perhaps have been of more value and uſe; yet I cou'd not eaſily deny the Requeſt, which you with ſeveral of your Brethren, and others were pleaſed to make me of publiſhing this: When I ſaw it proceeded from your concurrent opinion, that it was likely to anſwer in ſome meaſure thoſe <hi>Publick</hi> and <hi>Peaceable</hi> ends for which it was made. I pray God it may, and if it does ſo at all, I ſhall be ſo far from being concern'd, that you put me upon it, that I ſhall be glad you engaged me.</p>
+            <pb facs="tcp:56488:3"/>
+            <p> However, Sir, I cannot repent the gati<g ref="char:EOLhyphen"/>fying you in particular, in what I am ſure was a well intentioned deſire; and came from the ſame good Principle that has ever made you a conſtant and ſerious Attender upon the Worſhip of God; and added an honour to that Office you ſo well Adorn in other reſpects.</p>
+            <p>
+               <hi>That it would pleaſe God to continue his mercies to you, and give you with all good men the ſatisfaction of ſeeing Religi<g ref="char:EOLhyphen"/>on and Virtue flouriſh under this Bleſſing of Peace, for which we have rendred our Thanks; is the hearty Prayer of</hi>
+            </p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your very much obliged and very affectionate Friend and faithful Servant, <hi>C. Trimnell.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:56488:3"/>
+            <epigraph>
+               <q>
+                  <bibl>PSALM 116.1, 2.</bibl>
+                  <p>I love the Lord, becauſe he hath heard my voice, and my ſupplica<g ref="char:EOLhyphen"/>tions.</p>
+                  <p>Becauſe he hath inclined his ear unto me, therefore will I call upon him as long as I live.</p>
+               </q>
+            </epigraph>
+            <p>THeſe words expreſs the grateful reſentment which <hi>David</hi> had of the loving-kindneſs of God, ſhewn to him, in his ſignal deliverance, and they alſo contain his reſolution upon it, to place his whole future dependence on him, as the only return he cou'd make, for thoſe mercies which he does in this Pſalm ſo fully acknowledge: Nor is he in any thing a Man after God's own Heart more clear than in this; as it is
+<pb n="2" facs="tcp:56488:4"/>not poſſible for us to conceive or ima<g ref="char:EOLhyphen"/>gine, that he can be pleaſing to God who has no ſenſe of his mercies, or thinks to approve himſelf by any other return. But when the bleſſings of Hea<g ref="char:EOLhyphen"/>ven fall ſo, as to ſink into our Hearts, and we are <hi>made ſoft by them, as by the drops of Rain,</hi> God will delight to ſhower them on us; when his Good<g ref="char:EOLhyphen"/>neſs enters into our Souls, and takes ſuch hold of our Affections, that our <hi>ſpirits cleave ſtedfaſtly to him,</hi> then will he alſo <hi>rejoyce in the gladneſs of his People,</hi> and accept of the <hi>thanks of his Inheritance.</hi>
+            </p>
+            <p>That thoſe <hi>bleſſings</hi> of his which we this <hi>day</hi> Commemorate, may have this effect upon us; and that our <hi>Thankſgiv<g ref="char:EOLhyphen"/>ings</hi> may prove of this force and virtue with him; I ſhall proceed to conſider.</p>
+            <p n="1">1. The reaſons we have to love God for his having inclined his ear unto us, and heard our Petitions.</p>
+            <p n="2">
+               <pb n="3" facs="tcp:56488:4"/> 2. The Obligation we are under, in return, to call upon him as long as we live.</p>
+            <p n="1">1. The Reaſons we have to love God, <hi>&amp;c.</hi> or as we read in the Liturgy, to be well pleaſed, <hi>that the Lord hath heard the voice of our Prayer,</hi> as no more is propo<g ref="char:EOLhyphen"/>ſed to be underſtood by Love in this place, than barely that joyous affection, with which we are unavoidably carried, upon the ſenſe of any Felicity, towards him we eſteem as the Author, before we conſider what ſort of Gratitude he may expect at our hands: And then looking on God as having heard our Petitions, we can no more help <hi>loving</hi> him for it, than we can being <hi>pleaſed</hi> with what he has given; which before we weigh its Im<g ref="char:EOLhyphen"/>portance and Uſe, muſt needs be a de<g ref="char:EOLhyphen"/>light, as effectually anſwering thoſe ear<g ref="char:EOLhyphen"/>neſt Prayers we have put up theſe ſeveral Years.</p>
+            <pb n="4" facs="tcp:56488:5"/>
+            <p> For if <hi>the deſire accompliſhed is ſweet to the Soul,</hi>
+               <note place="margin">Prov. 13.19.</note> as the Wiſe man aſſures us, and the Senſe of the meaneſt finds to be true; bringing that to perfection at laſt which has been ſo long expected, and under ſo much ſuſpence, cannot chooſe but afford a proportionate joy: when our Hearts are diſcharged of that ſickneſs which al<g ref="char:EOLhyphen"/>ways attends the delay of our Hopes, and our Minds are delivered from that oppreſ<g ref="char:EOLhyphen"/>ſion, which our fears brought in abun<g ref="char:EOLhyphen"/>dance upon us; they will of themſelves grow erect, and break out in the praiſes of God.</p>
+            <p>And this admiration of his wonderful goodneſs will riſe higher ſtill, as we go on to reflect on the Bleſſings themſelves: <hi>An advantageous Concluſion of Peace crown'd with the ſafe return of the King.</hi>
+            </p>
+            <p>If we look upon Peace but in its gene<g ref="char:EOLhyphen"/>ral view, there are ſo many things agree<g ref="char:EOLhyphen"/>able in it, that he muſt have loſt the Taſte of all that Human Nature does reliſh, who can find in his heart, to make any doubt, whether it be a Bleſſing or no:
+<pb n="5" facs="tcp:56488:5"/>A Bleſſing beyond all queſtion it is, ſo far as the perfecteſt ſtate of this World can pretend to be ſo; for we have no o<g ref="char:EOLhyphen"/>ther notion of Civil, any more than we have of Natural Health, but ſuch a con<g ref="char:EOLhyphen"/>dition in which the courſe of things goes quietly on; when no violent obſtruction forbids the due uſe of what we receive, but every thing we take, or enjoy, has leave to promote the moſt ſuitable end.</p>
+            <p>Nor does it alter the ſtate of the caſe, that Afflictions are frequent occaſions of Good, and the calmeſt condition often a Snare; this ariſing from our corruptions, and not ſo much from the nature of things. It is to mankind's diſadvantage, that men often ſay we are by nature the Subjects of War, and they who ſay this ha'nt ſo much as a thought, that it would not be better for us to be always in Peace, if thoſe Luſts that are in us wou'd let it be ſo. For as many Wars as there have been raiſed in the World, no Man ever yet deſired they ſhou'd laſt as a gene<g ref="char:EOLhyphen"/>ral good, but only hoped to work by
+<pb n="6" facs="tcp:56488:6"/>them ſome deſperate Cure: And, taken alone, that muſt be an Evil which our Na<g ref="char:EOLhyphen"/>ture abhors, and which makes a part of the threatnings of God; as that muſt be accounted a happy Eſtate, which Men have ever preſs'd to enjoy, and which is propoſed as the greateſt reward of our Obedience here, by him who delights to be called the Prince, and King, and God of Peace; and is deſcribed as ſcattering thoſe that take pleaſure in War.</p>
+            <p>And well do they deſerve to be ſcatte<g ref="char:EOLhyphen"/>red, who have burſt the Bonds of Ten<g ref="char:EOLhyphen"/>derneſs ſo far, as to make ſport of that furious Employment, which draws ſuch a Chain of Miſeries after it, and can hard<g ref="char:EOLhyphen"/>ly ever with any comfort be look'd back upon, but when it ends in ſuch a Peace as we have attain'd: A Peace that makes ample amends for what we have endu<g ref="char:EOLhyphen"/>red, by the advantage it brings to our Civil and Sacred Concerns.</p>
+            <p>For this War is not ended, as Wars too often are, in our ſlaviſh ſubjection to ſome vile and imperious Sword, but that
+<pb n="7" facs="tcp:56488:6"/>Royal Hand which has led on our Arms, and prevailed to our laying them down with Safety and Honour, has been ſtretch<g ref="char:EOLhyphen"/>ed out to maintain our Religion and Laws, and by the help of God, has defended them both.</p>
+            <p>Our Poſſeſſions now may be called our own, a Wall of Defence is placed round about them, and we may ſafely take our Paſtime therein: The ſound of Alarms is no more in our Ears, nor is our ſleep broken by viſions of fear, but our Days are all quiet; and our Nights are ſecure. No reſtraints Iy upon us, but what the wiſdom of Laws directs us to chooſe, and our very Liberty it ſelf does require; ſo that all the fair ways of thriving are open, and we are free to do all the good that we would.</p>
+            <p>Had we felt more of the ſmart of this, ſo many years War, we ſhou'd not have needed any repreſentations of other Men's making, to give us a value of this bleſſing of Peace: And I truſt, we ſhall not eſteem it the leſs, for God's having been pleaſed
+<pb n="8" facs="tcp:56488:7"/>to bring it home to us, before he had ſuf<g ref="char:EOLhyphen"/>fered the War to fall, with all its force and terrour, upon us. Not but that the Fire has been often ſo near us; and the ap<g ref="char:EOLhyphen"/>prehenſions we have frequently had when things went againſt us, muſt be ſtill ſo freſh in our minds; that we can<g ref="char:EOLhyphen"/>not chooſe but from our own obſervati<g ref="char:EOLhyphen"/>on, form great Ideas of that Mercy, for which we are called to offer our Thanks</p>
+            <p>And theſe will ſtill be enlarged, as we our ſelves advance to conſider the aſpect it has in our <hi>ſacred concerns.</hi>
+            </p>
+            <p>By this our Religion is preſerved to us uncorrupt and entire, and we are not on<g ref="char:EOLhyphen"/>ly maintain'd, but encouraged in keeping up its publick profeſſion: Be it never ſo true what has often been ſaid, that no Man's Religion can be rifled from him, that being a Treaſure lock'd up there, where no outward malice can come; yet conſidering the weakneſs of Men, the arts of the World, and the wiles of the Devil; how apt we are to grow ſick of our Faith, when troubles attend it,
+<pb n="9" facs="tcp:56488:7"/>and how forward the great Deceiver ap<g ref="char:EOLhyphen"/>pears to ſuggeſt doubts in Belief, when 'tis hard to profeſs; we muſt needs ac<g ref="char:EOLhyphen"/>knowledge it a ſingular mark of Gods tender compaſſion, that he keeps off temp<g ref="char:EOLhyphen"/>tations from coming upon us, and ſuffers us not to be brought into ſuch fiery Tryals as theſe.</p>
+            <p>It cannot but make us think the better even of the Truth it ſelf, to ſee it pro<g ref="char:EOLhyphen"/>tected; and that Religion muſt invite our Obedience, which ſo viſibly has the ſuc<g ref="char:EOLhyphen"/>cour of Heaven: The Duties of it are matter of eaſier practice, the freer we are from the cares of this World, and the more removed we come to be, from that Fear which has Torment, in ſo much the better condition we are to receive the gentle impreſſions of Love.</p>
+            <p>An entire dependance on God, and a joyful taking of all that he ſends, are pret<g ref="char:EOLhyphen"/>ty difficult Leſſons, when things frown up<g ref="char:EOLhyphen"/>on us, and we ſee nothing but Troubles about us: But when he is pleaſed to <hi>turn again and refreſh us,</hi> new vigour ariſes,
+<pb n="10" facs="tcp:56488:8"/>and rejoycing in him becomes a natural work. While our Thoughts are oppreſ<g ref="char:EOLhyphen"/>ſed with the temporal dangers we find on every hand, they have hardly leiſure or ſpirit to look to what paſſes within: Some, it is to be hoped, are brought to reflect on the ſtate of their Souls, from the hazard they find their Bodies are in; but the care of moſt, it is to be feared, is limi<g ref="char:EOLhyphen"/>ted there, and the better part muſt have patience to ſtay till the worſe is ſecure.</p>
+            <p>At beſt, the ſervice we pay in the midſt of diſtreſs, eſpecially when it begins not till then, is very imperfect, and falls a<g ref="char:EOLhyphen"/>bundantly ſhort of the Obedience we give, when we have ſtrength to reſiſt: And 'tis quite another Oblation we make of our ſelves, when we like our Condition, over that we put up, when we wiſh for a change: We may poſſibly be accepted in this thro' the mercy of God; but we are <hi>cheerful</hi> givers in that, and ſuch as he loves: when we offer him all that we take pleaſure in, it is to be ſure, a greater ſign of our Affection and Zeal,
+<pb n="11" facs="tcp:56488:8"/>than juſt flying to him at a time that we know not whether to go; and we our ſelves have leſs comfort in this, than the other, where we are ſcarce able to keep up our hopes of being received, while there we move with all the fulleſt aſſu<g ref="char:EOLhyphen"/>rance of Love.</p>
+            <p>There are many virtues no doubt to be ſhewn in the moſt wretched Eſtate, and many occaſions of Piety given us by thoſe, that wiſh ill to our Souls: but a larger field of Obedience to be ſure is opened, by making us room enough to go at our eaſe; and our outward Proſperity is a great invitation as well as a means, to compleat our felicity in every reſpect.</p>
+            <p>Promoting the knowledge of God, re<g ref="char:EOLhyphen"/>forming the manners of Men, and ex<g ref="char:EOLhyphen"/>tending of Charity with all the train of Religious Works, are things of great worth in themſelves, and eſteem in the World: and we account it none of the lighteſt miſchiefs of War, that it is a mighty hindrance to theſe. How much then muſt it add to the advantage of
+<pb n="12" facs="tcp:56488:9"/>Peace? That by it we are put in a ſtate of purſuing theſe glorious ends; That we have leiſure to look to our ſelves with ſuch greater exactneſs, as withal to regard the wellfare of others, who cannot be forgotten but at our expence.</p>
+            <p>For it is when we want inclination or time to look to that which moſt nearly concerns us; that we neglect thoſe who have a right to be part of our care, and will be remembred when we think of our ſelves; God having moſt wiſely diſ<g ref="char:EOLhyphen"/>poſed our ſeveral intereſts in ſo mutual<g ref="char:EOLhyphen"/>ly depending a manner, that for our own ſakes, we muſt be kind to our Bre<g ref="char:EOLhyphen"/>thren; and therefore we cannot but think thoſe Circumſtances exceedingly happy, that put us into ſo fair a Capaci<g ref="char:EOLhyphen"/>ty of following up our common Con<g ref="char:EOLhyphen"/>cern.</p>
+            <p>And we are in the better poſture for this, thro' the extent of that Peace, in which ſo many others partake the Com<g ref="char:EOLhyphen"/>fort with us: which is not only a great addition to the general joy, but every
+<pb n="13" facs="tcp:56488:9"/>ones particular Triumph is thereby ad<g ref="char:EOLhyphen"/>vanced; as that good fortune which af<g ref="char:EOLhyphen"/>fords us no more than a juſt ſatisfaction, while we think of it with calmneſs at home, is apt to tranſport us when we get abroad, and come to ſee what effect it has upon the face of the World. So natural is it for Joy as well as for Grief to ſwell up to a pitch from the num<g ref="char:EOLhyphen"/>ber of thoſe that make up the Train.</p>
+            <p>And there is great reaſon it ſhould do ſo here, where not only Religion, and good nature perſwade us to be well pleaſed that others are happy; but our own opportunities of doing good, and receiving advantage are thereby enlarged; while all the kind Offices of Neighbours and Friends are freely exchanged in this part of the World.</p>
+            <p>We have alſo the more reaſon to hope the continuance of this mutual Acceſs, for it's being ſo wide; which cannot but make the proſpect more pleaſing to all, and all the more carefull for that to prevent the cutting off any thing from
+<pb n="14" facs="tcp:56488:10"/>it, and hardly can there be any one found ſo little concern'd what the reſt ſhall think of him, as not to avoid with the utmoſt caution, that ſoul mark which muſt light upon him who firſt diſturbs the the common Repoſe.</p>
+            <p>Which Conſideration as it greatly en<g ref="char:EOLhyphen"/>hances our Joy on this happy occaſion, in reſpect of what we might otherwiſe fear from Abroad; ſo it further Aug<g ref="char:EOLhyphen"/>ments it, by the hopes it affords of putting an end to our civil diſſenſions at Home: For tho' ſome may have been hitherto held by the miſtaken Bonds of former Engagements againſt the plain ſenſe and meaning of Laws, and the nature of Things, yet now perhaps they may find themſelves free, and in a ſtate to accept an Accompliſhed Deliverance. They might poſſibly be in a well meant ſuſpence, while things were in diſpute, and ſeem<g ref="char:EOLhyphen"/>ed to depend upon the Iſſues of War: but when that laſt Recourſe has determined a<g ref="char:EOLhyphen"/>gainſt them, and all the World beſides confirm the deciſion; it is to be hoped
+<pb n="15" facs="tcp:56488:10"/>that they alſo will be fully concluded. It cannot ſure but give them a lower con<g ref="char:EOLhyphen"/>ceit of their private Opinion, to find it diſclaim'd by the reſt of mankind, who have leſs concern that it ſhould be an er<g ref="char:EOLhyphen"/>rour; and prevent their being ſo fond of Diſquiet, as ſtill to reſolve upon continu<g ref="char:EOLhyphen"/>ing uneaſie when the World is at Reſt.</p>
+            <p>This we will hope both for them and our ſelves, and with ſo much the more expectation of having our wiſh; as it has pleaſed God to Crown this Bleſſing of Peace, with the return of the King.</p>
+            <p>Had his Sacred Perſon been permitted to fall by the black Malice of Implacable Men, or taken from us by any other, all-moſt as ſad, tho leſs violent Death; after all, that his Wiſdom and Courage with the Bleſſing of Heaven, had accompliſhed for us; that Glorious Day had been overcaſt at its very firſt opening upon us in the diſmalleſt manner; and what would have followed that Terrible Night, no Mortal can tell: The loſs of him who is not on<g ref="char:EOLhyphen"/>ly of that importance to us, but to ſo
+<pb n="16" facs="tcp:56488:11"/>many about us, at ſuch a critical time, might well have unravelled all things again, and put our Afairs in a dreadful diſorder: And ſuch a Confuſion had been too thick a Cloud for us to ſee thro', what wou'd be in the End.</p>
+            <p>But God has had pitty upon us, and by bringing back his Majeſty to us, ſeems inclined to eſtabliſh the wonderful things he has wrought for our good, and to make that Hand which has hitherto proſpered with ſo univerſal an Honour in War, a further means of procuring to us, all the remaining Glories of Peace. And this we may have the fuller hopes he will do, if in the next place we proceed to conſider.</p>
+            <p n="2">2. <hi>The obligations we are under in return, to call upon God as long as we live.</hi> This calling on God implies our entire depen<g ref="char:EOLhyphen"/>dance upon him; and our care to order our behaviour ſo as may give our Hearts a Confidence in him. And what is there in either of theſe, that we muſt not ac<g ref="char:EOLhyphen"/>knowledge his due in a ſingular manner,
+<pb n="17" facs="tcp:56488:11"/>for what he has done? What temptation can we poſſibly have ſo much as to think of withdrawing our affiance in him, who has been ſo far from forſaking us, that he has been exceedingly favourable to us, beyond what we cou'd even allow our ſelves to expect at his hands? Had Af<g ref="char:EOLhyphen"/>flictons and Wars been our Portion ſtill, our Truſt ought to have ſtood, where our Help ever did in the name of the Lord: But it would be now altogether as ſenſe<g ref="char:EOLhyphen"/>leſs, as it wou'd be an ungrateful offence, to place it any where elſe. He who has ſafely convey'd us thro' ſo many Dan<g ref="char:EOLhyphen"/>gers, and brought us at laſt to the <hi>end of our</hi> temporal <hi>Hopes,</hi> has not only a right to our Truſt, but ſuch a one as it would be madneſs in us to diſpute.</p>
+            <p>On the other hand it wou'd be a pre<g ref="char:EOLhyphen"/>ſumption to rely upon God, without care to make our Converſation ſuch as might give us an humble aſſurance in all our appearings before him. To keep on in <hi>ways</hi> of <hi>our own,</hi> when he has done ſo much to invite us to <hi>order our goings,</hi>
+               <pb n="18" facs="tcp:56488:12"/>in <hi>his,</hi> is ſuch a contempt of his mercy, as wou'd ſoon provoke him to turn it away: To divert his <hi>Goodneſs</hi> ſo far from being a means to <hi>lead us to Repentance,</hi> as to make it a new occaſion of ſinning; wou'd be ſuch a <hi>deſpite to his Spirit</hi> and Power, as muſt juſtly make us dread the return of his Judgements, with ſo much the fiercer Anger upon us.</p>
+            <p>To prevent this, and to ſecure our Peace, we muſt reſolve upon paying an unfeign<g ref="char:EOLhyphen"/>ed Obedience to God, who has been ſo gracious to us;<note place="margin">Pſal. 105.43, 45.</note> 
+               <hi>who has brought forth his people with Joy, and his choſen with glad<g ref="char:EOLhyphen"/>neſs, that they might keep his ſtatutes and obſerve his Laws.</hi> And to uphold us in theſe as well as to continue our happineſs to us; we muſt according to the moſt ob<g ref="char:EOLhyphen"/>vions ſenſe of the words <hi>call upon him as long as we live.</hi> Duly conſidering that while we are here, there will always be danger of our departing from God, and of his leaving us, when we do, to the fruit of our ways: both which we muſt pray to avoid, and for ſome reaſons pe<g ref="char:EOLhyphen"/>culiar to Peace.</p>
+            <pb n="19" facs="tcp:56488:12"/>
+            <p> For tho', as it has been already obſerved, ma<g ref="char:EOLhyphen"/>ny great opportunities of promoting Virtue are thereby allow'd us; yet it muſt be confeſs'd, that there are too ſome Temptations in it, ſo apt we are to forget God, when we ſee no particu<g ref="char:EOLhyphen"/>lar need of his help, and let our vain Inclinati<g ref="char:EOLhyphen"/>ons take their extravagant courſe, when there is no viſible ſtop in the way; and the apter ſtill ſhall we be to do this, as our late viſitati<g ref="char:EOLhyphen"/>on has had the leſs Influence on us: inſomuch, that obſerving how little we are amended by that, we ought to be the more apprehenſive of a tendency in us, to pervert and abuſe our bet<g ref="char:EOLhyphen"/>ter ſucceſs: And that ſhould make us fear its Decay.</p>
+            <p>How highly then muſt it always import us to pray to God in the firſt place that we may be Obedient, and wiſely employ the Bleſſings we have; to lay the better ground for our ask<g ref="char:EOLhyphen"/>ing their future continuance? And that theſe Prayers may be heard, we muſt be earneſt and diligent in them; whether we offer them up in the Publick Aſſemblies, or in the leſs ſuſpect<g ref="char:EOLhyphen"/>ed Zeal of a private Devotion: Both which ways of Addreſs ſhould always afford each other their mutual Help; that our ſecret Retirements may have the more warmth, by what we bring from the Concurrence of others; and our ſolemn meet<g ref="char:EOLhyphen"/>ings be quicken'd with greater Attention from our Practice at Home.</p>
+            <p>We are now more than ever obliged to be frequent and ſerious in theſe, as well that we may ſhew our Eſteem of ſuch Opportunities, as
+<pb n="20" facs="tcp:56488:13"/>provide for their being the longer enjoy'd: ſince it cannot be thought we account them a Bleſ<g ref="char:EOLhyphen"/>ſing, if we care not to uſe them, or be hoped they will laſt, if we do not pray that they may be preſerved.</p>
+            <p>For tho' there is a Concurrence of ſeveral things to give us good hopes of an Enduring Peace; yet we cannot but know the ſtate of this World, how uncertain it is; and the deſigns of thoſe who have been moſt Diſappointed, how unwearied they are. We ought therefore with the more carefulneſs to <hi>watch unto Prayer</hi> that our condition may be the leſs ſubject to change, and beſeech God that we may never be added to that Church which has debaſed Religion and corrupted the World.</p>
+            <p>The better to guard againſt ſuch a Bondage as this, we muſt pray for a union of all our ſtrength and endeavours at home; that they who have long ſince <hi>divided</hi> from our <hi>Holy Communion,</hi> may upon looking nearer into what we profeſs, ſee thro' the thinneſs of thoſe pretences upon which they withdraw, and not be frighted from calm<g ref="char:EOLhyphen"/>ly conſidering the ſtate of the Caſe by any want of Temper in us.</p>
+            <p>To this let us add our Requeſts: that they who ſhall remain to <hi>diſsent</hi> from this <hi>Days Thankſgiving,</hi> may come at laſt in this ſenſe too, to ſee the things that make for their Peace; and be brought on their way by ſuch uſage from us, as may ſhew the deſire we have to ſhare our Happineſs with them.</p>
+            <pb n="21" facs="tcp:56488:13"/>
+            <p> For both theſe ends, we muſt earneſtly pray that the King may live long, and proſper among us, not only in gratitude to him, but for the ſake of all that we owe to his Care; as we cannot hope to be ſettled and flouriſh in Peace, under any hand ſo well as that, which procured it for us, which ſteadily guided the <hi>Helm</hi> of this <hi>tot<g ref="char:EOLhyphen"/>tering ſtate,</hi> daſhed on each ſide with contrary Waves, and has brought it at laſt to <hi>the Haven where it would be.</hi>
+            </p>
+            <p>A great deal remains to be done for repairing the hurt it got in the <hi>ſtorm,</hi> and ſhould not he who ſecured it then, live to make up the <hi>Breach<g ref="char:EOLhyphen"/>es</hi> of that, it would hardly bear the <hi>launching</hi> a<g ref="char:EOLhyphen"/>gain? conſidering of how many different parts the Veſſel is made, it cannot but want the <hi>Ce<g ref="char:EOLhyphen"/>ment</hi> of ſo ſtrong and piercing a <hi>ſpirit</hi> to hold them together, and ſecure the Effects of all that have an <hi>Adventure</hi> in her.</p>
+            <p>This, if he lives, (who has made the moſt di<g ref="char:EOLhyphen"/>ſtant Intereſts abroad work together for Peace) we may hope he will do, to conſummate our Happineſs, and fully compleat the Satisfaction he takes in perfecting that: And tho' a far great<g ref="char:EOLhyphen"/>er reward will come at the end of all his <hi>La<g ref="char:EOLhyphen"/>bour and Care</hi> than the brighteſt Scene of this World can afford; yet it cannot but be an agree<g ref="char:EOLhyphen"/>able <hi>earneſt</hi> of that <hi>Glory which ſhall be reveal'd,</hi> to ſee the fruit of his Toils and Conflicts here, in the <hi>Virtue</hi> and <hi>Greatneſs</hi> of thoſe Kingdoms for which he has been ſo often expoſed.</p>
+            <p>For his ſake therefore, as well as our own, let us joyntly endeavour to make this juſt and grate<g ref="char:EOLhyphen"/>ful
+<pb n="22" facs="tcp:56488:14"/>Return, and help him to finiſh that excel<g ref="char:EOLhyphen"/>lent work he has ſo far advanced, that it muſt be our fault, if it ever miſcarries: he has now by the favour of God, put it into our hands to do good to our ſelves; and it is our true Wiſdom not to let the occaſion ſlip<g ref="char:punc">▪</g> as it cer<g ref="char:EOLhyphen"/>tainly will, if we do not improve it; and not only vaniſh it ſelf, but leave our Condition worſe than it was.</p>
+            <p>To avoid this Relapſe, let us here <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the preſence of God reckon our ſelves to be <hi>ſaved from the hand of our Enemies, that we may ſerve him without fear, in Holineſs and Righteouſneſs before him all the days of our life,</hi> and if our Deliverance has this ef<g ref="char:EOLhyphen"/>fect, our wellfare is ſafe in our Virtues and Bleſ<g ref="char:EOLhyphen"/>ſings daily receiving a mutual increaſe, and the <hi>Better</hi> we are, the Happier ſtill ſhall we certain<g ref="char:EOLhyphen"/>ly be.</p>
+            <p>Let it then be our Care to give the mercies we are met to acknowledge, this intereſt in us; that our preſent Rejoycing may leave an abid<g ref="char:EOLhyphen"/>ing Comfort upon us, and every moment make us fitter for all that we want: That the King may have the pleaſure we owe him of ruling a People with eaſe, he has been at ſo much pains to preſerve; and that from both God a<g ref="char:EOLhyphen"/>lone may have always the Praiſe. <hi>To whom be aſcribed, as is moſt due, all Honour and Glory, Do<g ref="char:EOLhyphen"/>minion and Power, now and for ever.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56488:14"/>
+         </div>
+      </body>
+   </text>
+</TEI>
